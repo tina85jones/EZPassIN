@@ -1,0 +1,28 @@
+# Project Structure
+
+EZPassIN/
+│
+├── public/
+│   ├── index.html             # Main HTML entry point
+│   └── manifest.json          # App manifest for PWA
+│
+├── src/
+│   ├── App.js                 # Main React component
+│   ├── App.css                # Global styles
+│   ├── App.test.js            # Unit tests for App
+│   ├── components/            # UI components
+│   │   ├── ExpenseForm.js
+│   │   ├── ExpenseForm.css
+│   │   ├── ExpenseList.js
+│   │   ├── ExpenseList.css
+│   │   ├── Header.js
+│   │   ├── Header.css
+│   │   ├── Receipt.js
+│   │   └── Receipt.css
+│   └── index/
+│       ├── index.js           # App entry point
+│       └── index.css          # Global styles
+│
+├── package.json               # Project dependencies and scripts
+├── README.md                  # Documentation and setup
+└── CONTRIBUTING.md            # Contribution guidelines
