@@ -25,7 +25,9 @@ EZ Pass IN is a smart and secure expense management web application designed to 
 
 ### 👨‍💻 Author
 **Name:** Tina Jones
+
 **Email:** tina85jones@outlook.com
+
 **Website:** 
 A passionate full-stack developer with expertise in scalable web applications, UI design, and system architecture. Dedicated to creating clean, efficient code and always eager to help others learn and grow in the tech community.
 
